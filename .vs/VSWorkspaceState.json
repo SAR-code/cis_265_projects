@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\module_2",
+    "\\module_2\\Exercise_3",
+    "\\module_2\\Exercise_3\\Exercise_3",
+    "\\module_2\\Exercise_4",
+    "\\module_2\\Exercise_4\\Exercise_4"
   ],
+  "SelectedNode": "\\module_2\\Exercise_4\\Exercise_4\\Exercise_4.cpp",
   "PreviewInSolutionExplorer": false
 }
