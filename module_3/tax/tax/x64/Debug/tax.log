@@ -1,0 +1,8 @@
+﻿  tax.c
+C:\Github\cis_265_projects\module_3\tax\tax\tax.c(30,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Github\cis_265_projects\module_3\tax\tax\tax.c(42,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Github\cis_265_projects\module_3\tax\tax\tax.c(53,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Github\cis_265_projects\module_3\tax\tax\tax.c(64,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Github\cis_265_projects\module_3\tax\tax\tax.c(75,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Github\cis_265_projects\module_3\tax\tax\tax.c(86,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  tax.vcxproj -> C:\Github\cis_265_projects\module_3\tax\x64\Debug\tax.exe

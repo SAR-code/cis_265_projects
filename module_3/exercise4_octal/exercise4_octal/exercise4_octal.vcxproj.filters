@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="exercise4_octal.cpp">
+    <ClCompile Include="exercise4_octal.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

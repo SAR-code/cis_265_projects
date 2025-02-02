@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Github\\cis_265_projects\\module_3\\exercise4_octal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C1A18A6-2626-4BEB-9807-EEBF42F65FF1}|exercise4_octal\\exercise4_octal.vcxproj|C:\\Github\\cis_265_projects\\module_3\\exercise4_octal\\exercise4_octal\\exercise4_octal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9C1A18A6-2626-4BEB-9807-EEBF42F65FF1}|exercise4_octal\\exercise4_octal.vcxproj|solutionrelative:exercise4_octal\\exercise4_octal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9C1A18A6-2626-4BEB-9807-EEBF42F65FF1}|exercise4_octal\\exercise4_octal.vcxproj|C:\\Github\\cis_265_projects\\module_3\\exercise4_octal\\exercise4_octal\\exercise4_octal.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C1A18A6-2626-4BEB-9807-EEBF42F65FF1}|exercise4_octal\\exercise4_octal.vcxproj|solutionrelative:exercise4_octal\\exercise4_octal.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "exercise4_octal.cpp",
-              "DocumentMoniker": "C:\\Github\\cis_265_projects\\module_3\\exercise4_octal\\exercise4_octal\\exercise4_octal.cpp",
-              "RelativeDocumentMoniker": "exercise4_octal\\exercise4_octal.cpp",
-              "ToolTip": "C:\\Github\\cis_265_projects\\module_3\\exercise4_octal\\exercise4_octal\\exercise4_octal.cpp",
-              "RelativeToolTip": "exercise4_octal\\exercise4_octal.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-01T22:43:39.682Z",
+              "Title": "exercise4_octal.c",
+              "DocumentMoniker": "C:\\Github\\cis_265_projects\\module_3\\exercise4_octal\\exercise4_octal\\exercise4_octal.c",
+              "RelativeDocumentMoniker": "exercise4_octal\\exercise4_octal.c",
+              "ToolTip": "C:\\Github\\cis_265_projects\\module_3\\exercise4_octal\\exercise4_octal\\exercise4_octal.c",
+              "RelativeToolTip": "exercise4_octal\\exercise4_octal.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-02T00:23:39.334Z",
               "EditorCaption": ""
             }
           ]
