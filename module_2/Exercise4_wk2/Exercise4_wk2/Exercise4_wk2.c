@@ -10,6 +10,7 @@
 #include <stdio.h>
 
 
+
 int main()
 {
     // declare variables for user input
@@ -60,7 +61,12 @@ int main()
 
     };
 
+    int x = 5;
+    float y = 80.7f;
 
+    y = x = 99.6f;
+    printf("%f", y)
+    
  
     return 0;
 }
