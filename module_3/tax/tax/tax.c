@@ -10,6 +10,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
+
 int main()
 {
     // declare required variables
@@ -91,6 +92,11 @@ int main()
         printf("Taxes due: $%.2f", tax_owed);
     }
     
+    
+   
+    
+    
+        
     
 
     return 0;
