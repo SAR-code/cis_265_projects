@@ -1,2 +1,4 @@
 ﻿  numbers.c
-  numbers.vcxproj -> C:\Github\cis_265_projects\module_4\numbers\x64\Debug\numbers.exe
+C:\Github\cis_265_projects\module_4\numbers\numbers\numbers.c(14,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+C:\Github\cis_265_projects\module_4\numbers\numbers\numbers.c(50,11): error C2440: 'function': cannot convert from 'char [3]' to 'double'
+C:\Github\cis_265_projects\module_4\numbers\numbers\numbers.c(50,11): warning C4024: 'Print': different types for formal and actual parameter 1
