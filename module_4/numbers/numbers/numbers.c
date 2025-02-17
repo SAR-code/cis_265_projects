@@ -9,7 +9,10 @@
 
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
-
+void Print(double x)
+{
+    printf("%d", x);
+}
 int main()
 {
     // declare required variables
@@ -43,6 +46,10 @@ int main()
 
     // displays message once the largest number is detected
     printf("\nThe largest number entered was %.2f\n", max_number);
+
+    Print("Hi");
+    getchar();
+
 
     return 0;
 }
