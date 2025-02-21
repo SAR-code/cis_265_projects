@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\cis_265_projects\\module_6\\reversal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA7D71C-3720-4452-B6ED-FF2E66F3BE06}|reversal\\reversal.vcxproj|C:\\Github\\cis_265_projects\\module_6\\reversal\\reversal\\reversal.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FA7D71C-3720-4452-B6ED-FF2E66F3BE06}|reversal\\reversal.vcxproj|solutionrelative:reversal\\reversal.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 232,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "reversal.c",
+              "DocumentMoniker": "C:\\Github\\cis_265_projects\\module_6\\reversal\\reversal\\reversal.c",
+              "RelativeDocumentMoniker": "reversal\\reversal.c",
+              "ToolTip": "C:\\Github\\cis_265_projects\\module_6\\reversal\\reversal\\reversal.c*",
+              "RelativeToolTip": "reversal\\reversal.c*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-21T06:25:31.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
