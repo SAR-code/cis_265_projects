@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\cis_265_projects\\module_6\\doubles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1017105C-5908-49CD-89BC-70E276069077}|doubles\\doubles.vcxproj|C:\\Github\\cis_265_projects\\module_6\\doubles\\doubles\\doubles.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1017105C-5908-49CD-89BC-70E276069077}|doubles\\doubles.vcxproj|solutionrelative:doubles\\doubles.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 232,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "doubles.c",
+              "DocumentMoniker": "C:\\Github\\cis_265_projects\\module_6\\doubles\\doubles\\doubles.c",
+              "RelativeDocumentMoniker": "doubles\\doubles.c",
+              "ToolTip": "C:\\Github\\cis_265_projects\\module_6\\doubles\\doubles\\doubles.c*",
+              "RelativeToolTip": "doubles\\doubles.c*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-20T20:18:01.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
