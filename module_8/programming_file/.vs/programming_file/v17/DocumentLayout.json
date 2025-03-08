@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\cis_265_projects\\module_8\\programming_file\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{541E1A50-F29F-4445-B132-6DE895D13A66}|programming_file\\programming_file.vcxproj|C:\\Github\\cis_265_projects\\module_8\\programming_file\\programming_file\\programming_file.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{541E1A50-F29F-4445-B132-6DE895D13A66}|programming_file\\programming_file.vcxproj|solutionrelative:programming_file\\programming_file.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541E1A50-F29F-4445-B132-6DE895D13A66}|programming_file\\programming_file.vcxproj|C:\\Github\\cis_265_projects\\module_8\\programming_file\\programming_file\\CIS265.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{541E1A50-F29F-4445-B132-6DE895D13A66}|programming_file\\programming_file.vcxproj|solutionrelative:programming_file\\CIS265.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 232,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CIS265.txt",
+              "DocumentMoniker": "C:\\Github\\cis_265_projects\\module_8\\programming_file\\programming_file\\CIS265.txt",
+              "RelativeDocumentMoniker": "programming_file\\CIS265.txt",
+              "ToolTip": "C:\\Github\\cis_265_projects\\module_8\\programming_file\\programming_file\\CIS265.txt",
+              "RelativeToolTip": "programming_file\\CIS265.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-08T20:22:43.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "programming_file.c",
+              "DocumentMoniker": "C:\\Github\\cis_265_projects\\module_8\\programming_file\\programming_file\\programming_file.c",
+              "RelativeDocumentMoniker": "programming_file\\programming_file.c",
+              "ToolTip": "C:\\Github\\cis_265_projects\\module_8\\programming_file\\programming_file\\programming_file.c",
+              "RelativeToolTip": "programming_file\\programming_file.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-07T21:28:29.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

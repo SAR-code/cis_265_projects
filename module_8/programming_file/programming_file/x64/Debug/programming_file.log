@@ -1,0 +1,4 @@
+﻿  programming_file.c
+C:\Github\cis_265_projects\module_8\programming_file\programming_file\programming_file.c(68,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Github\cis_265_projects\module_8\programming_file\programming_file\programming_file.c(172,3): warning C4098: 'displayMenu': 'void' function returning a value
+  programming_file.vcxproj -> C:\Github\cis_265_projects\module_8\programming_file\x64\Debug\programming_file.exe
