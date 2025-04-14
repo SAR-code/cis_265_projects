@@ -54,10 +54,10 @@ const int digit_sections[10][7] = {
 		  {1, 1, 1, 1, 0, 1, 1}  // 9
 };
 
-/*******************************************************************
-* creates the 3x3 grid for the positioning of the 7 section display*
-*                                                                  *
-*******************************************************************/
+/********************************************************************
+* creates the 3x3 grid for the positioning of the 7 section display *
+*                                                                   *
+*********************************************************************/
 
 const int sectional_grid[MAX_SECTIONS][2] = {
 	{0, 1}, // section 0
@@ -101,10 +101,10 @@ int main()
 }
 
 /****************************************************
-* 													*
-* void clear_digits_array(void)						*
-* Purpose: Clears the digits array to spaces.		*
-* 													*
+* 		                                    *
+* void clear_digits_array(void)			    *
+* Purpose: Clears the digits array to spaces.	    *
+* 						    *
 *****************************************************/
 
 void clear_digits_array(void)
@@ -122,11 +122,11 @@ void clear_digits_array(void)
 
 
 /****************************************************
-* 													*
-* void process_digit(int digit, int position)		*
-* Purpose: Processes the digit and updates the		*
-* digits array to display the digit.			    *
-* 													*
+* 						    *
+* void process_digit(int digit, int position)	    *
+* Purpose: Processes the digit and updates the	    *
+* digits array to display the digit.	            *
+* 						    *
 * ***************************************************/
 
 void process_digit(int digit, int position)
@@ -148,10 +148,10 @@ void process_digit(int digit, int position)
 
 
 /****************************************************
-* 													*
-* void print_digits_array(void)					    *
-* Purpose: Prints the digits array to the console.	*
-* 													*
+* 						    *
+* void print_digits_array(void)			    *
+* Purpose: Prints the digits array to the console.  *
+* 						    *
 *****************************************************/
 
 void print_digits_array(void)
