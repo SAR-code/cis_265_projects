@@ -1,0 +1,3 @@
+﻿  StructsEnums.c
+C:\Github\cis_265_projects\module_12\StructsEnums\StructsEnums\StructsEnums.c(133,2): warning C4098: 'startProgram': 'void' function returning a value
+  StructsEnums.vcxproj -> C:\Github\cis_265_projects\module_12\StructsEnums\x64\Debug\StructsEnums.exe
