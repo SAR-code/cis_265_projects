@@ -1,8 +1,7 @@
-
 /*
 * SCRIPT: StructsEnums.c
 * PURPOSE: This program is designed to work with structures
-*	       and enumerations in C. The project utilizes the
+*	   and enumerations in C. The project utilizes the
 *          CSV file "student database.txt"
 * AUTHOR: D.M
 * DATE: 17APR25
@@ -56,11 +55,11 @@ int main()
 
 
 /**********************************************************************************
-*																				  *
-* void startProgram()															  *
+*										  *
+* void startProgram()							          *
 * Purpose: This function starts the program by reading the data from the file and *
-* 		    prompts the user to make a selection to manipulate the data utilizing *
-* 		    loops and switch cases.                                               *
+*          prompts the user to make a selection to manipulate the data utilizing  *
+*          loops and switch cases.                                                *
 **********************************************************************************/
 
 void startProgram()
@@ -135,8 +134,8 @@ void startProgram()
 
 
 /**********************************************************************************
-*																				  *
-* int readStudentsFromFile(const char* filename, Student students[])			  *
+*										  *
+* int readStudentsFromFile(const char* filename, Student students[])		  *
 * Purpose: This function reads the student data from the student database.txt     *
 *          file and populates the students array.                                 *
 **********************************************************************************/
@@ -188,8 +187,8 @@ int readStudentsFromFile(const char* filename, Student students[])
 
 
 /***********************************************************************************
-* 																				   *
-* void displayStudents(const Student students[], int numStudents)				   *
+* 										   *
+* void displayStudents(const Student students[], int numStudents)		   *
 * Purpose: This function displays all the students' information in the database.   *
 * *********************************************************************************/
 
@@ -208,7 +207,7 @@ void displayStudents(const Student students[], int numStudents)
 
 
 /***************************************************************************************
-* 																				       *
+* 										       *
 * void searchStudentId(const Student students[], int numStudents, int searchId)        *
 * Purpose: This function searches for a student by ID and displays their information.  *
 * *************************************************************************************/
@@ -231,10 +230,10 @@ void searchStudentId(const Student students[], int numStudents, int searchId)
 
 
 /***************************************************************************************
-* 																				       *
+* 										       *
 * void countStudentsPerCampus(const Student students[], int numStudents)               *
 * Purpose: This function counts the number of students per campus and displays the     *
-* 		   results.                                                                    *
+* 	   results.                                                                    *
 * *************************************************************************************/
 
 void countStudentsPerCampus(const Student students[], int numStudents)
@@ -271,7 +270,7 @@ void countStudentsPerCampus(const Student students[], int numStudents)
 
 
 /***************************************************************************************
-* 																				       *
+* 										       *
 * Campus parseCampus(const char* campusStr)                                            *
 * Purpose: This function parses the campus string and returns the corresponding enum.  *
 * *************************************************************************************/
@@ -296,9 +295,9 @@ Campus parseCampus(const char* campusStr)
 
 
 /***************************************************************************************
-* 																				       *
+* 										       *
 * const char* getCampusLocation(Campus campus)                                         *
-* Purpose: This function returns the campus location as a string.					   *
+* Purpose: This function returns the campus location as a string.		       *
 * *************************************************************************************/
 
 const char* getCampusLocation(Campus campus)
