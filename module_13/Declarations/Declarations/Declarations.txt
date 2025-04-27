@@ -1,5 +1,5 @@
 /*
-* SCRIPT: Declarations.c
+* SCRIPT: Declarations.txt
 * PURPOSE: Write a complete description of the type x as
            specified by each of the following declarations
 * AUTHOR: D.M
@@ -21,7 +21,7 @@
     - the function takes an int as an argument and returns a pointer to a float
 
 (d) void (*x(int, void (*y) (int))) (int);
-    - x is a function with two arguements, an int and a pointer to a function with one int arguement with return type of void
-    - it returns a pointer to a function with one int arguement and return type of void
+    - x is a function with two arguments, an int and a pointer to a function with one int argument with return type of void
+    - it returns a pointer to a function with one int argument and return type of void
 
 
