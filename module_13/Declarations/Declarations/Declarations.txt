@@ -1,0 +1,27 @@
+/*
+* SCRIPT: Declarations.txt
+* PURPOSE: Write a complete description of the type x as
+           specified by each of the following declarations
+* AUTHOR: D.M
+* DATE: 26APR25
+*
+*/
+
+(a) char (*x[10]) (int);
+    - x is an array of 10 pointers to functions
+    - each function takes an int as an argument and returns a char
+
+(b) int (*x(int)) [5];
+    - x is a function that takes an int as an argument
+    - it returns a pointer to an array of 5 integers
+
+(c) float *(*x(void)) (int);
+    - x is a function that takes no arguments
+    - it returns a pointer to a function
+    - the function takes an int as an argument and returns a pointer to a float
+
+(d) void (*x(int, void (*y) (int))) (int);
+    - x is a function with two arguments, an int and a pointer to a function with one int argument with return type of void
+    - it returns a pointer to a function with one int argument and return type of void
+
+

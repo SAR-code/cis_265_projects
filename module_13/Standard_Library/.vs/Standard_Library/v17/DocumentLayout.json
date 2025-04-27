@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\cis_265_projects\\module_13\\Standard_Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B1CE14-D9AB-406E-8D13-DF81C540B0F9}|Standard_Library\\Standard_Library.vcxproj|C:\\Github\\cis_265_projects\\module_13\\Standard_Library\\Standard_Library\\Standard_Library.txt||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8B1CE14-D9AB-406E-8D13-DF81C540B0F9}|Standard_Library\\Standard_Library.vcxproj|solutionrelative:Standard_Library\\Standard_Library.txt||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Standard_Library.txt",
+              "DocumentMoniker": "C:\\Github\\cis_265_projects\\module_13\\Standard_Library\\Standard_Library\\Standard_Library.txt",
+              "RelativeDocumentMoniker": "Standard_Library\\Standard_Library.txt",
+              "ToolTip": "C:\\Github\\cis_265_projects\\module_13\\Standard_Library\\Standard_Library\\Standard_Library.txt",
+              "RelativeToolTip": "Standard_Library\\Standard_Library.txt",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-27T04:27:04.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
