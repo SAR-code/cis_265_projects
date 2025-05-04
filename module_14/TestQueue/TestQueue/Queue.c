@@ -29,11 +29,11 @@ static struct queue_structure queue = {
 };
 
 
-/****************************************************
-* 		                                            *
-* void insertEndQue(Item item)		                *
-* Purpose: Inserts item at the end of the queue     *
-* 						                            *
+/*****************************************************
+* 		                                     *
+* void insertEndQue(Item item)		             *
+* Purpose: Inserts item at the end of the queue      *
+* 						     *
 *****************************************************/
 void insertEndQue(Item item)
 {
@@ -53,8 +53,8 @@ void insertEndQue(Item item)
 
 
 /********************************************************
-* 		                                                *
-* Item removeBegQue()			                        *
+* 		                                        *
+* Item removeBegQue()			                *
 * Purpose: Removes item from the beginning of the queue *
 *                                                       *
 ********************************************************/
@@ -77,8 +77,8 @@ Item removeBegQue()
 
 
 /********************************************************
-* 		                                                *
-* Item returnFirstItem()			                    *
+* 		                                        *
+* Item returnFirstItem()			        *
 * Purpose: Returns the first item in the queue          *
 *                                                       *
 ********************************************************/
@@ -99,10 +99,10 @@ Item returnFirstItem()
 
 
 /********************************************************
-* 		                                                *
-* Item returnLastItem()			                        *
+* 		                                        *
+* Item returnLastItem()			                *
 * Purpose: Returns the last item in the queue           *
-* 												        *
+* 	                                                *
 * ******************************************************/
 Item returnLastItem()
 {
@@ -121,10 +121,10 @@ Item returnLastItem()
 
 
 /********************************************************
-* 		                                                *
-* bool isEmpty()			                            *
+* 		                                        *
+* bool isEmpty()			                *
 * Purpose: Tests whether the queue is empty             *
-* 												        *
+* 							*
 * ******************************************************/
 bool isEmpty()
 {
