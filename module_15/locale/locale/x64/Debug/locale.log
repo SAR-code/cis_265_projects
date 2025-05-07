@@ -1,0 +1,5 @@
+﻿  locale.c
+C:\Github\cis_265_projects\module_15\locale\locale\locale.c(7,9): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+C:\Github\cis_265_projects\module_15\locale\locale\locale.c(7,9): warning C4024: 'printf': different types for formal and actual parameter 1
+C:\Github\cis_265_projects\module_15\locale\locale\locale.c(7,14): error C2143: syntax error: missing ')' before 'constant'
+C:\Github\cis_265_projects\module_15\locale\locale\locale.c(7,30): error C2059: syntax error: ')'
