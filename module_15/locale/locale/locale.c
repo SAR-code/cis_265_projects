@@ -49,7 +49,7 @@ int main()
         struct lconv* lc = localeconv();
 
 
-		// Display the locale information
+	// Display the locale information
         printf("\ndecimal point = \"%s\"\n", lc->decimal_point);
         printf("thousands sep = \"%s\"\n", lc->thousands_sep);
         display_locale_group("grouping", lc->grouping);
