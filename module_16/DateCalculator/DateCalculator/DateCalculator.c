@@ -11,6 +11,7 @@
 #include <stdio.h>
 #include <time.h>
 
+// Declare a struct for date inputs
 struct tm timeOne, timeTwo;
 
 // Function prototypes
@@ -25,6 +26,12 @@ int main()
     return 0;
 }
 
+/***************************************************************
+*                                                              *
+* void handle_input()                                          *
+* Purpose: Receives user's inputs and outputs the diff in days *
+*                                                              *
+***************************************************************/
 
 void handle_input(){
 
